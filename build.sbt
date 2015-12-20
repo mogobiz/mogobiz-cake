@@ -1,0 +1,4 @@
+
+name := "mogobiz-cake"
+
+scalariformSettings
